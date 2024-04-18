@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Labs2Atual</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="minNote">Por favor introduza 5 caracteres!</string>
+    <string name="selectDate">Por favor, selecione uma data!</string>
+    <string name="saved">Guardar</string>
+    <string name="updated">Atualizado com Sucesso!</string>
+    <string name="date">Data</string>
+</resources>

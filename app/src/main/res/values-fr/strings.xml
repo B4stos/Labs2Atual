@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Labs2Atual</string>
+    <string name="hello_blank_fragment">Bonjour fragment vide</string>
+    <string name="minNote">Veuillez entrer 5 caractères!</string>
+    <string name="selectDate">Veuillez sélectionner une date!</string>
+    <string name="saved">Enregistrer</string>
+    <string name="updated">Mis à jour avec succès !</string>
+    <string name="date">Data</string>
+</resources>
